@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning:
+1. Web Development:
+   - HTML
+   - CSS
+   - JavaScript
+   - PHP
+2. Java
+3. Python
+4. C
+5. C++
+
 <!--
 **arsxhy/arsxhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
